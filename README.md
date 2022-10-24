@@ -1,1 +1,2 @@
 # GENERAL-CATALOGUE-OF-VARIABLE-STARS-VISUALIZER
+The project was done using the THREE.js environment. Data for 100 variable stars from the GCVS was collected in a csv file. 4 spotlights were used around the sphere to represent the variability in the light emitted by the star. We utilized post-processing libraries: UnrealBloomPass and EffectComposer, which light up the sphere by simulating a light shader from the layers of the sphere that undergoes refraction and remission in the inner layers just like a normal star.
